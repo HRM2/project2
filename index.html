@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>khanoomi</title>
+    <link rel="stylesheet" href="./main.css" />
+    <link
+      rel="stylesheet"
+      href="./node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+  </head>
+  <body dir="rtl">
+    <!--header-->
+    <div
+      class="header container d-flex my-5 justify-content-center align-items-center"
+    >
+      <div class="ms-auto d-flex col-lg-6 justify-content-center gap-3">
+        <div class="logo col-2">
+          <img class="col-12" src="./media/Khanoumi Logo.svg" alt="" />
+        </div>
+        <div
+          class="search col-9 d-flex border border-1 border-secondary justify-content-center gap-1"
+        >
+          <div class="col-1 d-flex justify-content-center">
+            <img class="col-8" src="./media/svgexport-2.svg" alt="" />
+          </div>
+          <input
+            class="col-10"
+            type="search"
+            name="search"
+            id="search"
+            placeholder="جست و جو"
+            style="border: none"
+          />
+        </div>
+      </div>
+      <div
+        class="me-auto col-2 d-flex justify-content-center align-items-center h-auto"
+      >
+        <div
+          class="enter col-7 d-flex justify-content-center gap-2 border border-danger border-1"
+        >
+          <img class="col-3" src="./media/svgexport-6.svg" alt="" />
+          <span class="col-3 text-danger">ورود</span>
+        </div>
+        <div class="buy col-3 d-flex justify-content-center">
+          <img class="col-6" src="./media/svgexport-7.svg" alt="" />
+        </div>
+      </div>
+    </div>
+    <!--end header-->
+    <!--menu-->
+    <div class="menu container-fluid d-flex align-items-center me-auto bg-black">
+      <ul class="menu-items col-10 d-flex justify-content-center gap-3 align-items-center"></ul>
+    </div>
+    <!--end menu-->
+    <!--daste bandi1-->
+    <div
+      class="daste-bandi1 container-fluid col-lg-10 col-12 my-5 d-flex flex-wrap gap-lg-0 gap-3 justify-content-center align-items-center px-5"
+    ></div>
+    <!--end daste bandi1-->
+    <!--banners-->
+    <div
+      class="banners container-fluid d-flex flex-column align-items-center gap-4 my-5"
+    ></div>
+    <!--end banners-->
+    <!--mini bannners-->
+    <div
+      class="mini-banners container-fluid d-flex flex-wrap justify-content-center align-items-center gap-4 my-5"
+    ></div>
+    <!--end mini bannners-->
+    <!--daste bandi2-->
+    <div
+      class="daste-bandi2 container-fluid col-lg-10 col-12 d-flex flex-wrap justify-content-center my-5 row-gap-3 row-gap-lg-4 column-gap-lg-0 column-gap-3"
+    ></div>
+    <!--end daste bandi2-->
+    <!--berand haye bartar-->
+    <div
+      class="berand-haye-bartar container-fluid d-flex flex-column justify-content-center align-content-center col-lg-10 col-12 my-5 gap-4"
+    >
+      <span class="">برندهای برتر</span>
+      <div
+        class="berand-haye-bartar-child d-flex flex-wrap justify-content-center align-items-center col-12 column-gap-lg-4 column-gap-0"
+      ></div>
+    </div>
+    <!--end berand haye bartar-->
+    <!--banner2-->
+    <div class="banner2 container-fluid col-lg-10 col-12"></div>
+    <!--end banner2-->
+    <script src="./node_modules/axios/dist/axios.min.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/script.js" type="module"></script>
+  </body>
+</html>

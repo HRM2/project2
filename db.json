@@ -1,0 +1,643 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "پیشنهاد ویژه"
+    },
+    {
+      "id": 1,
+      "title": "برندها"
+    },
+    {
+      "id": 1,
+      "title": "آرایشی"
+    },
+    {
+      "id": 1,
+      "title": "مراقبت پوست"
+    },
+    {
+      "id": 1,
+      "title": "مراقبت مو"
+    },
+    {
+      "id": 1,
+      "title": "بهداشت شخصی"
+    },
+    {
+      "id": 1,
+      "title": "عطر و ادکلن"
+    },
+    {
+      "id": 1,
+      "title": "آقایان"
+    },
+    {
+      "id": 1,
+      "title": "لوازم برقی شخصی"
+    },
+    {
+      "id": 1,
+      "title": "مکمل غذایی و ورزشی"
+    },
+    {
+      "id": 1,
+      "title": "مجله خانومی"
+    }
+  ],
+  "swiper1": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/1a/ba/1aba14b52f984187b343a813b2dcd822.jpeg"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/89/ac/89ac65e3c7c44a208f5aeb92c6457d05.jpeg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/1c/ae/1cae73408235465ca255d8a5e1e8b0a9.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/12/a0/12a05425c6924f7ea1d4c6ed9506e832.jpeg"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/33/0e/330e47892afe4403a46c9c71f922592a.jpeg"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/b6/b2/b6b2bcab8c794700b64bdbe3e0c81074.jpeg"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/ef/33/ef336f20331f4389a8700216f1dda6cf.jpeg"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/00/91/0091079eacf646d0b9f09eb1c5e408f6.jpeg"
+    },
+    {
+      "id": 9,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/87/25/87252c11209743789a538a6bd88c26f5.jpeg"
+    },
+    {
+      "id": 10,
+      "img": "https://cdn.khanoumi.com/cml/carousel-big/f8/f0/f8f0569102a34f56abf66df3f6cb28a4.jpeg"
+    }
+  ],
+  "jabe sorati": [
+    {
+      "id": 1,
+      "img": "https://storage.khanoumi.com/ProductImages/MASCAL3-202468104954935.jpg?w=130",
+      "title": "ریمل حجم دهنده اکستند ولوم",
+      "discount rate": "40%",
+      "price": 378.294,
+      "price with discount": 226.98,
+      "svg": ""
+    },
+    {
+      "id": 2,
+      "img": "https://storage.khanoumi.com/ProductImages/3009500030-202478161722278.jpg?w=130",
+      "title": "فوم شستشوی صورت مناسب پوست چرب و مستعد آکنه 150میل",
+      "discount rate": "40%",
+      "price": 288.0,
+      "price with discount": 172.8,
+      "svg": ""
+    },
+    {
+      "id": 3,
+      "img": "https://storage.khanoumi.com/ProductImages/Ginagen-Anti-Acne-Cream-35ml-Light-Beige-Khanoumi-202424844966.jpg?w=130",
+      "title": "کرم آنتی آکنه رنگی 35 میل",
+      "discount rate": "40%",
+      "price": 298.8,
+      "price with discount": 173.88,
+      "svg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://storage.khanoumi.com/ProductImages/1e40762bf1e64a768a2c70ab418b7a84.jpg?w=130",
+      "title": "فوم برنزه کننده پوست",
+      "discount rate": "",
+      "price": "",
+      "price with discount": 580.0,
+      "svg": ""
+    },
+    {
+      "id": 5,
+      "img": "https://storage.khanoumi.com/ProductImages/25318-2024721122626714.jpg?w=130",
+      "title": "کرم ضد آفتاب و ضد لک بی رنگ مدل SPF50 مناسب پوست چرب و آکنه دار حجم 40 میلی لیتر",
+      "discount rate": "40%",
+      "price": 604.0,
+      "price with discount": 362.4,
+      "svg": ""
+    },
+    {
+      "id": 6,
+      "img": "https://storage.khanoumi.com/ProductImages/eurho-vital-zink-plus-10-mg-60-caps-khanoumi-202421212495168.jpg?w=130",
+      "title": "زینک پلاس 10 میلی گرم بسته 60 عددی",
+      "discount rate": "43%",
+      "price": 261.0,
+      "price with discount": 149.0,
+      "svg": ""
+    },
+    {
+      "id": 7,
+      "img": "https://storage.khanoumi.com/ProductImages/NPNL1-010-(2)-2024622133419873.jpg?w=130",
+      "title": "لاک ناخن بادوام",
+      "discount rate": "20%",
+      "price": 95.871,
+      "price with discount": 76.7,
+      "svg": ""
+    },
+    {
+      "id": 8,
+      "img": "https://storage.khanoumi.com/ProductImages/56114-2024611173011379.jpg?w=130",
+      "title": "ژل دئودورانت زنانه مدل انرژی اند فرش حجم 75 میلی لیتر",
+      "discount rate": "40%",
+      "price": 130.0,
+      "price with discount": 78.0,
+      "svg": ""
+    },
+    {
+      "id": 9,
+      "img": "https://storage.khanoumi.com/ProductImages/20200-(2)-2024622143217767.jpg?w=130",
+      "title": "شامپو تقویت کننده و ضد ریزش کافئین",
+      "discount rate": "35%",
+      "price": 178.8,
+      "price with discount": 116.22,
+      "svg": ""
+    }
+  ],
+  "swiper2": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/8f/37/8f371a9de03e42f8ad5c63a85d8dcb3e.jpeg"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/b7/54/b754a8fa8baf4fb0a32925d85ccc35d8.jpeg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/60/a5/60a529ec42424f61ba122cfc82ca5327.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/96/af/96af4db9f33b43549fe4d47f34e1eeb3.jpeg"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/32/92/32928df6537f4b2c8823fe5999f72bc4.jpeg"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/8a/27/8a27296a3ae64748b0985752c789a2c7.jpeg"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/6f/f2/6ff212c2b1754f029913f98fdf11ab6c.jpeg"
+    }
+  ],
+  "por frosh tarin ha": [
+    {
+      "id": 1,
+      "img": "https://storage.khanoumi.com/ProductImages/3242900011-2024611173417978.jpg?w=130",
+      "title": "وچه",
+      "description": "کرم آبرسان مخصوص پوست چرب و مستعد آکنه 60 میلی لیتر",
+      "discount rate": "38%",
+      "price": 328.0,
+      "price with discount": 203.36,
+      "svg": ""
+    },
+    {
+      "id": 2,
+      "img": "https://storage.khanoumi.com/ProductImages/7736500004-202461293211812.jpg?w=130",
+      "title": "آدریان",
+      "description": "قرص کلاژن گلد بسته 60 عددی",
+      "discount rate": "29%",
+      "price": 699.6,
+      "price with discount": 499.0,
+      "svg": ""
+    },
+    {
+      "id": 3,
+      "img": "https://storage.khanoumi.com/ProductImages/50827-2024611112919553.jpg?w=130",
+      "title": "ژیناژن",
+      "description": "ضد آفتاب بی رنگ مدل Fusion liquid مناسب پوست چرب 50 میلی لیتر",
+      "discount rate": "40%",
+      "price": 470.0,
+      "price with discount": 282.0,
+      "svg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://storage.khanoumi.com/ProductImages/23844-(2)-202461511592375.jpg?w=130",
+      "title": "پرایم",
+      "description": "سرم ویتامین سی مدل C_Prime حجم 30 میلی لیتر",
+      "discount rate": "30%",
+      "price": 739.0,
+      "price with discount": 517.3,
+      "svg": ""
+    },
+    {
+      "id": 5,
+      "img": "https://storage.khanoumi.com/ProductImages/7f650f93ce894323a03fe47f24a0fa75.jpg?w=130",
+      "title": "کالیستا",
+      "description": "رژ لب جامد کالر ریچ",
+      "discount rate": "20%",
+      "price": 237.0,
+      "price with discount": 189.6,
+      "svg": ""
+    },
+    {
+      "id": 6,
+      "img": "https://storage.khanoumi.com/ProductImages/76018-2024121174713941.jpg?w=130",
+      "title": "داوردینری",
+      "description": "سرم دور چشم کافئین سولوشن 5% حجم 30 میلی لیتر",
+      "discount rate": "40%",
+      "price": 1370.13,
+      "price with discount": 822.08,
+      "svg": ""
+    },
+    {
+      "id": 7,
+      "img": "https://storage.khanoumi.com/ProductImages/76018-2024121174713941.jpg?w=130",
+      "title": "کالیستا",
+      "description": "ریمل حجم دهنده اکستند ولوم",
+      "discount rate": "40%",
+      "price": 378.294,
+      "price with discount": 226.98,
+      "svg": ""
+    },
+    {
+      "id": 8,
+      "img": "https://storage.khanoumi.com/ProductImages/25475-202462211162313.jpg?w=130",
+      "title": "ساین اسکین",
+      "description": "کرم بیوتی بالم بی بی (ب ب کرم)",
+      "discount rate": "40%",
+      "price": 408.49,
+      "price with discount": 245.09,
+      "svg": ""
+    },
+    {
+      "id": 9,
+      "img": "https://storage.khanoumi.com/ProductImages/25318-2024721122626714.jpg?w=130",
+      "title": "لافارر",
+      "description": "کرم ضد آفتاب و ضد لک بی رنگ مدل SPF50 مناسب پوست چرب و آکنه دار حجم 40 میلی لیتر",
+      "discount rate": "40%",
+      "price": 604.0,
+      "price with discount": 362.4,
+      "svg": ""
+    }
+  ],
+  "daste bandi1": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/eb/35/eb3527341686460f93ef80b968f50a2a.webp",
+      "title": "تخصصی آقایان"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/a4/1c/a41cee1c5b494df783849761c3156b2b.webp",
+      "title": "مراقبت مو"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/11/d5/11d5b6ef5a35419a8b6857316993befe.webp",
+      "title": "آرایش لب"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/91/15/9115e3dfc2ee412381cc2759723fc05f.webp",
+      "title": "آرایش چشم"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/44/66/44666ead67594c74a45ef27019d7ffff.webp",
+      "title": "ضد آفتاب"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.khanoumi.com/cml/carousel-icon/13/71/13715ca1aff044c29accd87b09fe318a.webp",
+      "title": "مراقبت پوستی"
+    }
+  ],
+  "swiper3": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/44/8a/448ab0dbb4ed40baa57f2c8d397eeb5c.jpeg"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/7f/70/7f701354dd01404db2b6a7f36087ca4f.jpeg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/e9/11/e9111e241a6e480db4df2395c1aa67d1.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/7b/69/7b69a64ba48746c5b80ffd66a7e16181.jpeg"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/cml/carousel-medium/78/17/78176c8897cb46c4a9e7866085d33d0b.jpeg"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/banner/99/4a/994a3d6684bf44139e022aee3f263183.webp"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/banner/ec/01/ec01ed29f5a249d7afd0ea714aadfacf.jpeg"
+    }
+  ],
+  "jadid tarin ha": [
+    {
+      "id": 1,
+      "img": "https://storage.khanoumi.com/ProductImages/80540H11000009(1)-202479114443599.jpg?w=130",
+      "title": "نوتریکا",
+      "description": "هایلایتر مایع مدل Beauty حجم 35 میلی لیتر",
+      "discount rate": "15%",
+      "price": 285.0,
+      "price with discount": 242.25,
+      "svg": ""
+    },
+    {
+      "id": 2,
+      "img": "https://storage.khanoumi.com/ProductImages/01ef489b2fdb4f6cbdf22330fe1c12f4.jpg?w=130",
+      "title": "میوتو",
+      "description": "فیس براش کارینا",
+      "discount rate": "11%",
+      "price": 3700.0,
+      "price with discount": 3300.0,
+      "svg": ""
+    },
+    {
+      "id": 3,
+      "img": "https://storage.khanoumi.com/ProductImages/1688199038599_453-2024610184028232.jpg?w=130",
+      "title": "وی جی آر",
+      "description": "سشوار حرفه ای مدل V-453",
+      "discount rate": "21%",
+      "price": 1650.0,
+      "price with discount": 1298.0,
+      "svg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://storage.khanoumi.com/ProductImages/79839-202461014428379.jpg?w=130",
+      "title": "کانبیو",
+      "description": "کرم ضدآفتاب بی رنگ مدل Oil Free مناسب انواع پوست حجم 50 میلی لیتر",
+      "discount rate": "20%",
+      "price": 631.0,
+      "price with discount": 505.0,
+      "svg": ""
+    },
+    {
+      "id": 5,
+      "img": "https://storage.khanoumi.com/ProductImages/80554-2024730162323235.jpg?w=130",
+      "title": "سی گل",
+      "description": "کرم ضد آفتاب آقایان فاقد رنگ حجم 50 میلی لیتر",
+      "discount rate": "",
+      "price": "",
+      "price with discount": 229.0,
+      "svg": ""
+    },
+    {
+      "id": 6,
+      "img": "https://storage.khanoumi.com/ProductImages/a49fe226db2147228c3af403397bf6fa.jpg?w=130",
+      "title": "برندینی",
+      "description": "ادکلن مردانه ویاجیو 90 میل",
+      "discount rate": "29%",
+      "price": 1970.0,
+      "price with discount": 1398.7,
+      "svg": ""
+    },
+    {
+      "id": 7,
+      "img": "https://storage.khanoumi.com/ProductImages/1.brow-styling-wax-202462695555272.jpg?w=130",
+      "title": "بریستون",
+      "description": "ژل لیفت ابرو کاسه ای حجم 20 میلی لیتر",
+      "discount rate": "",
+      "price": "",
+      "price with discount": 248.0,
+      "svg": ""
+    },
+    {
+      "id": 8,
+      "img": "https://storage.khanoumi.com/ProductImages/17245229081202442011-2024727112239390.jpg?w=130",
+      "title": "فندا",
+      "description": "کپسول کلاژن هیدرولیز شده حاوی Vitamin C بسته 60 عددی",
+      "discount rate": "",
+      "price": "",
+      "price with discount": "تمام شد",
+      "svg": ""
+    },
+    {
+      "id": 9,
+      "img": "https://storage.khanoumi.com/ProductImages/78257n03-(1)-20247817724540.jpg?w=130",
+      "title": "توز",
+      "description": "رژگونه مایع حجم 20 میلی لیتر",
+      "discount rate": "6%",
+      "price": 180.0,
+      "price with discount": 169.9,
+      "svg": ""
+    }
+  ],
+  "mini banners": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/mobile-carousel-desktop-tile/b6/16/b6167a85cf6c4c4db9e844c1b26d9bf0.jpeg"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/mobile-carousel-desktop-tile/e7/e9/e7e9c7391a0f4b1da0cee28436c6209d.jpeg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/mobile-carousel-desktop-tile/2f/e2/2fe2909d90c5467baf53b64785af4ea4.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/mobile-carousel-desktop-tile/a1/cd/a1cdb9b0218449d48ac0922b3412f6d9.jpeg"
+    }
+  ],
+  "pishnahade khanoomi": [
+    {
+      "id": 1,
+      "img": "https://storage.khanoumi.com/ProductImages/50827-2024611112919553.jpg?w=130",
+      "title": "ژیناژن",
+      "description": "ضد آفتاب بی رنگ مدل Fusion liquid مناسب پوست چرب 50 میلی لیتر",
+      "discount rate": "40%",
+      "price": 470.0,
+      "price with discount": 282.0,
+      "svg": ""
+    },
+    {
+      "id": 2,
+      "img": "https://storage.khanoumi.com/ProductImages/09-2024123191757879.jpg?w=130",
+      "title": "لافارر",
+      "description": "کرم مرطوب کننده و آبرسان مدل 1 مناسب پوست چرب و آکنه دار حجم 75 میلی لیتر",
+      "discount rate": "40%",
+      "price": 493.85,
+      "price with discount": 296.31,
+      "svg": ""
+    },
+    {
+      "id": 3,
+      "img": "https://storage.khanoumi.com/ProductImages/7736500004-202461293211812.jpg?w=130",
+      "title": "آدریان",
+      "description": "قرص کلاژن گلد بسته 60 عددی",
+      "discount rate": "29%",
+      "price": 699.6,
+      "price with discount": 499.0,
+      "svg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://storage.khanoumi.com/ProductImages/Petal-Fresh-Follicle-Maintainer-Serum-50ml-Khanoumi-202372214208706.jpg?w=130",
+      "title": "پتال فرش",
+      "description": "سرم ضد ریزش مو 50 میلی لیتر",
+      "discount rate": "14%",
+      "price": 599.0,
+      "price with discount": 514.25,
+      "svg": ""
+    },
+    {
+      "id": 5,
+      "img": "https://storage.khanoumi.com/ProductImages/76643-202472010507883.jpg?w=130",
+      "title": "الیو",
+      "description": "مام رول دئودورانت اترکتیو حجم 50 میلی لیتر",
+      "discount rate": "20%",
+      "price": 79.0,
+      "price with discount": 63.2,
+      "svg": ""
+    },
+    {
+      "id": 6,
+      "img": "https://storage.khanoumi.com/ProductImages/77219-2024214152250602.jpg?w=130",
+      "title": "ابیان دارو",
+      "description": "قرص Uni Zinc 15mg بسته 60 عددی",
+      "discount rate": "33%",
+      "price": 212.6,
+      "price with discount": 142.0,
+      "svg": ""
+    },
+    {
+      "id": 7,
+      "img": "https://storage.khanoumi.com/ProductImages/ELCAL1-2024721124127721.jpg?w=130",
+      "title": "کالیستا",
+      "description": "خط چشم نمدی مدل لاین اکسپرس",
+      "discount rate": "40%",
+      "price": 262.329,
+      "price with discount": 157.4,
+      "svg": ""
+    },
+    {
+      "id": 8,
+      "img": "https://storage.khanoumi.com/ProductImages/31628-1-202476104028244.jpg?w=130",
+      "title": "اکسیلیا",
+      "description": "محلول تقویت کننده و محرک رشد مژه استریل 3 میلی لیتر",
+      "discount rate": "",
+      "price": "",
+      "price with discount": 430.92,
+      "svg": ""
+    },
+    {
+      "id": 9,
+      "img": "https://storage.khanoumi.com/ProductImages/25475-202462211162313.jpg?w=130",
+      "title": "ساین اسکین",
+      "description": "کرم بیوتی بالم بی بی (ب ب کرم)",
+      "discount rate": "40%",
+      "price": 408.49,
+      "price with discount": 245.09,
+      "svg": ""
+    }
+  ],
+  "daste bandi2": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/f2/ce/f2ce363245e943ca81f5a7e395388d7d.jpeg"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/3d/35/3d35dcb18775429d8642bcf95b9c429b.jpeg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/54/30/54303ae576004267aece93fbc27ac138.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/3e/a1/3ea1c33f4f534c85b8657721f8e467d9.jpeg"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/56/ff/56ffc51881794413ab27450bd029b361.jpeg"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/65/57/6557ddf4cd0f4f3a8602d79b77622f20.jpeg"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/a7/02/a702215c57d6496c933dc34360899aea.jpeg"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.khanoumi.com/cml/banner-tile/51/d4/51d47e36e3e3416e8b9b5a4b0993e165.jpeg"
+    }
+  ],
+  "berand haye bartar": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/af/b9/afb9f18f119647229de8337fd6fb7db0.png"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/f8/10/f8107b1032604ccab03a21952a39891c.png"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/7d/c2/7dc2a481ae414d5cb49d29ea9b224299.png"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/7b/1b/7b1b253f9b704f89bd8164bf81dbf77d.png"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/b7/dd/b7ddbdf51ca944259cf1f0d45b55aa80.png"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/27/21/27219aa50ab84d0bbf387f32f798100f.png"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/42/dd/42dd8f8b0aab407ea2b6f6881015e1cc.png"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/bf/89/bf89ce7acb704a4faebc764157881c72.png"
+    },
+    {
+      "id": 9,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/0e/a0/0ea03bdc3602418ca8f360dc00b8b7e9.png"
+    },
+    {
+      "id": 10,
+      "img": "https://cdn.khanoumi.com/develop/cml/carousel-brand/bf/34/bf3448c8ec644d20a60ba819ce6888b0.png"
+    }
+  ],
+  "banner2": [
+    {
+      "id": 1,
+      "img": "https://cdn.khanoumi.com/cml/banner/70/47/704789d513d84f689adf9b21f4156110.jpeg"
+    }
+  ]
+}
